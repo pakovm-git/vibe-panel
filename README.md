@@ -14,16 +14,19 @@ Made exclusively for those who enjoy Gnome's default looks but want to make it v
 - Panel corners (that follow the panel's transparency)
 - Option to remove the corners when the panel is transparent
 - Compatibility with [Luminus Shell](https://gitlab.com/dikasetyaprayogi/luminus-project)
-
+  
+# Installation
+Install it from [Gnome Extensions](https://extensions.gnome.org/extension/8637/vibe-panel/)
 
 ---
+
+# About
 
 Vibe Panel is a fork of:
 1) [Transparent Top Bar (Adjustable transparency)](https://github.com/lamarios/gnome-shell-extension-transparent-top-bar) 
 2) [Panel corners](https://github.com/aunetx/panel-corners)
 
----
-### Donate
+# Donate
 Send some Bitcoin over Lightning to: pakovm@getalby.com
 
 
