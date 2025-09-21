@@ -18,7 +18,7 @@ Made exclusively for those who enjoy Gnome's default looks but want to make it v
 # Installation
 Install it from [Gnome Extensions](https://extensions.gnome.org/extension/8637/vibe-panel/)
 
----
+
 
 # About
 
