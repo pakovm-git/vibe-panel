@@ -1,6 +1,8 @@
 # Vibe Panel
 ### A panel that vibes with your shell.
 
+<img width="690" height="651" alt="Screenshot From 2025-09-21 19-34-57" src="https://github.com/user-attachments/assets/6b33b645-7f20-49bc-8665-f597f792668c" />
+
 
 Vibe Panel is a vibe coded extension that vibes with your shell.
 Made exclusively for those who enjoy Gnome's default looks but want to make it vibe a little more.
@@ -22,3 +24,4 @@ Vibe Panel is a fork of:
 ---
 ### Donate
 Send some Bitcoin over Lightning to: pakovm@getalby.com
+<img width="898" height="897" alt="lnqr" src="https://github.com/user-attachments/assets/ffc3fee6-cfe2-493f-addb-25d6533a5921" />
