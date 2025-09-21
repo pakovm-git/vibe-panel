@@ -1,7 +1,7 @@
 {
     "uuid": "vibe-panel@pakovm",
     "name": "Vibe Panel",
-    "description": "A panel that vibes with your shell.\n\nFork of:\n1) Transparent Top Bar (Adjustable transparency) - https://extensions.gnome.org/extension/3960/transparent-top-bar-adjustable-transparency/ \n2) Panel corners - https://extensions.gnome.org/extension/4805/panel-corners/",
+    "description": "A panel that vibes with your shell.\n\nFork of:\n1) Transparent Top Bar (Adjustable transparency)\n2) Panel corners",
     "author": "PakoVM",
     "version": 48,
     "shell-version": ["48"],
