@@ -1,0 +1,11 @@
+{
+    "uuid": "vibe-panel@pakovm",
+    "name": "Vibe Panel",
+    "description": "A panel that vibes with your shell.",
+    "author": "PakoVM",
+    "version": 48,
+    "shell-version": ["48"],
+    "url": "",
+    "settings-schema": "org.gnome.shell.extensions.vibe-panel"
+}
+

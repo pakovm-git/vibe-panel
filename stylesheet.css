@@ -1,0 +1,226 @@
+/* --- Base Styles for the Extension --- */
+#panel.dynamic-panel-transparent {
+    transition-duration: 250ms;
+}
+
+#panel .panel-corner {
+    -panel-corner-border-width: 0;
+}
+
+#panel.dynamic-panel-transparent .panel-corner {
+    -panel-corner-background-color: transparent;
+}
+
+/* =================================================================== */
+/* --- Dark Theme Styles --- */
+/* =================================================================== */
+
+#panel.dynamic-panel-dark.dynamic-panel-transparency-0 { background-color: rgba(0,0,0,0.00) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-1 { background-color: rgba(0,0,0,0.01) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-2 { background-color: rgba(0,0,0,0.02) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-3 { background-color: rgba(0,0,0,0.03) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-4 { background-color: rgba(0,0,0,0.04) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-5 { background-color: rgba(0,0,0,0.05) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-6 { background-color: rgba(0,0,0,0.06) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-7 { background-color: rgba(0,0,0,0.07) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-8 { background-color: rgba(0,0,0,0.08) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-9 { background-color: rgba(0,0,0,0.09) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-10 { background-color: rgba(0,0,0,0.10) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-11 { background-color: rgba(0,0,0,0.11) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-12 { background-color: rgba(0,0,0,0.12) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-13 { background-color: rgba(0,0,0,0.13) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-14 { background-color: rgba(0,0,0,0.14) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-15 { background-color: rgba(0,0,0,0.15) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-16 { background-color: rgba(0,0,0,0.16) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-17 { background-color: rgba(0,0,0,0.17) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-18 { background-color: rgba(0,0,0,0.18) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-19 { background-color: rgba(0,0,0,0.19) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-20 { background-color: rgba(0,0,0,0.20) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-21 { background-color: rgba(0,0,0,0.21) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-22 { background-color: rgba(0,0,0,0.22) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-23 { background-color: rgba(0,0,0,0.23) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-24 { background-color: rgba(0,0,0,0.24) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-25 { background-color: rgba(0,0,0,0.25) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-26 { background-color: rgba(0,0,0,0.26) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-27 { background-color: rgba(0,0,0,0.27) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-28 { background-color: rgba(0,0,0,0.28) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-29 { background-color: rgba(0,0,0,0.29) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-30 { background-color: rgba(0,0,0,0.30) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-31 { background-color: rgba(0,0,0,0.31) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-32 { background-color: rgba(0,0,0,0.32) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-33 { background-color: rgba(0,0,0,0.33) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-34 { background-color: rgba(0,0,0,0.34) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-35 { background-color: rgba(0,0,0,0.35) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-36 { background-color: rgba(0,0,0,0.36) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-37 { background-color: rgba(0,0,0,0.37) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-38 { background-color: rgba(0,0,0,0.38) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-39 { background-color: rgba(0,0,0,0.39) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-40 { background-color: rgba(0,0,0,0.40) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-41 { background-color: rgba(0,0,0,0.41) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-42 { background-color: rgba(0,0,0,0.42) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-43 { background-color: rgba(0,0,0,0.43) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-44 { background-color: rgba(0,0,0,0.44) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-45 { background-color: rgba(0,0,0,0.45) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-46 { background-color: rgba(0,0,0,0.46) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-47 { background-color: rgba(0,0,0,0.47) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-48 { background-color: rgba(0,0,0,0.48) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-49 { background-color: rgba(0,0,0,0.49) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-50 { background-color: rgba(0,0,0,0.50) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-51 { background-color: rgba(0,0,0,0.51) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-52 { background-color: rgba(0,0,0,0.52) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-53 { background-color: rgba(0,0,0,0.53) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-54 { background-color: rgba(0,0,0,0.54) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-55 { background-color: rgba(0,0,0,0.55) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-56 { background-color: rgba(0,0,0,0.56) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-57 { background-color: rgba(0,0,0,0.57) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-58 { background-color: rgba(0,0,0,0.58) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-59 { background-color: rgba(0,0,0,0.59) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-60 { background-color: rgba(0,0,0,0.60) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-61 { background-color: rgba(0,0,0,0.61) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-62 { background-color: rgba(0,0,0,0.62) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-63 { background-color: rgba(0,0,0,0.63) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-64 { background-color: rgba(0,0,0,0.64) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-65 { background-color: rgba(0,0,0,0.65) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-66 { background-color: rgba(0,0,0,0.66) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-67 { background-color: rgba(0,0,0,0.67) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-68 { background-color: rgba(0,0,0,0.68) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-69 { background-color: rgba(0,0,0,0.69) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-70 { background-color: rgba(0,0,0,0.70) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-71 { background-color: rgba(0,0,0,0.71) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-72 { background-color: rgba(0,0,0,0.72) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-73 { background-color: rgba(0,0,0,0.73) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-74 { background-color: rgba(0,0,0,0.74) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-75 { background-color: rgba(0,0,0,0.75) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-76 { background-color: rgba(0,0,0,0.76) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-77 { background-color: rgba(0,0,0,0.77) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-78 { background-color: rgba(0,0,0,0.78) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-79 { background-color: rgba(0,0,0,0.79) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-80 { background-color: rgba(0,0,0,0.80) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-81 { background-color: rgba(0,0,0,0.81) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-82 { background-color: rgba(0,0,0,0.82) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-83 { background-color: rgba(0,0,0,0.83) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-84 { background-color: rgba(0,0,0,0.84) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-85 { background-color: rgba(0,0,0,0.85) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-86 { background-color: rgba(0,0,0,0.86) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-87 { background-color: rgba(0,0,0,0.87) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-88 { background-color: rgba(0,0,0,0.88) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-89 { background-color: rgba(0,0,0,0.89) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-90 { background-color: rgba(0,0,0,0.90) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-91 { background-color: rgba(0,0,0,0.91) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-92 { background-color: rgba(0,0,0,0.92) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-93 { background-color: rgba(0,0,0,0.93) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-94 { background-color: rgba(0,0,0,0.94) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-95 { background-color: rgba(0,0,0,0.95) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-96 { background-color: rgba(0,0,0,0.96) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-97 { background-color: rgba(0,0,0,0.97) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-98 { background-color: rgba(0,0,0,0.98) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-99 { background-color: rgba(0,0,0,0.99) !important; background-image: none !important; }
+#panel.dynamic-panel-dark.dynamic-panel-transparency-100 { background-color: rgba(0,0,0,1.00) !important; background-image: none !important; }
+
+/* =================================================================== */
+/* --- Light Theme Styles --- */
+/* =================================================================== */
+
+#panel.dynamic-panel-light.dynamic-panel-transparency-0 { background-color: rgba(240,240,240,0.00) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-1 { background-color: rgba(240,240,240,0.01) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-2 { background-color: rgba(240,240,240,0.02) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-3 { background-color: rgba(240,240,240,0.03) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-4 { background-color: rgba(240,240,240,0.04) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-5 { background-color: rgba(240,240,240,0.05) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-6 { background-color: rgba(240,240,240,0.06) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-7 { background-color: rgba(240,240,240,0.07) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-8 { background-color: rgba(240,240,240,0.08) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-9 { background-color: rgba(240,240,240,0.09) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-10 { background-color: rgba(240,240,240,0.10) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-11 { background-color: rgba(240,240,240,0.11) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-12 { background-color: rgba(240,240,240,0.12) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-13 { background-color: rgba(240,240,240,0.13) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-14 { background-color: rgba(240,240,240,0.14) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-15 { background-color: rgba(240,240,240,0.15) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-16 { background-color: rgba(240,240,240,0.16) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-17 { background-color: rgba(240,240,240,0.17) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-18 { background-color: rgba(240,240,240,0.18) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-19 { background-color: rgba(240,240,240,0.19) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-20 { background-color: rgba(240,240,240,0.20) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-21 { background-color: rgba(240,240,240,0.21) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-22 { background-color: rgba(240,240,240,0.22) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-23 { background-color: rgba(240,240,240,0.23) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-24 { background-color: rgba(240,240,240,0.24) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-25 { background-color: rgba(240,240,240,0.25) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-26 { background-color: rgba(240,240,240,0.26) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-27 { background-color: rgba(240,240,240,0.27) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-28 { background-color: rgba(240,240,240,0.28) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-29 { background-color: rgba(240,240,240,0.29) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-30 { background-color: rgba(240,240,240,0.30) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-31 { background-color: rgba(240,240,240,0.31) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-32 { background-color: rgba(240,240,240,0.32) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-33 { background-color: rgba(240,240,240,0.33) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-34 { background-color: rgba(240,240,240,0.34) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-35 { background-color: rgba(240,240,240,0.35) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-36 { background-color: rgba(240,240,240,0.36) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-37 { background-color: rgba(240,240,240,0.37) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-38 { background-color: rgba(240,240,240,0.38) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-39 { background-color: rgba(240,240,240,0.39) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-40 { background-color: rgba(240,240,240,0.40) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-41 { background-color: rgba(240,240,240,0.41) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-42 { background-color: rgba(240,240,240,0.42) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-43 { background-color: rgba(240,240,240,0.43) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-44 { background-color: rgba(240,240,240,0.44) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-45 { background-color: rgba(240,240,240,0.45) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-46 { background-color: rgba(240,240,240,0.46) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-47 { background-color: rgba(240,240,240,0.47) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-48 { background-color: rgba(240,240,240,0.48) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-49 { background-color: rgba(240,240,240,0.49) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-50 { background-color: rgba(240,240,240,0.50) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-51 { background-color: rgba(240,240,240,0.51) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-52 { background-color: rgba(240,240,240,0.52) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-53 { background-color: rgba(240,240,240,0.53) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-54 { background-color: rgba(240,240,240,0.54) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-55 { background-color: rgba(240,240,240,0.55) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-56 { background-color: rgba(240,240,240,0.56) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-57 { background-color: rgba(240,240,240,0.57) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-58 { background-color: rgba(240,240,240,0.58) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-59 { background-color: rgba(240,240,240,0.59) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-60 { background-color: rgba(240,240,240,0.60) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-61 { background-color: rgba(240,240,240,0.61) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-62 { background-color: rgba(240,240,240,0.62) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-63 { background-color: rgba(240,240,240,0.63) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-64 { background-color: rgba(240,240,240,0.64) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-65 { background-color: rgba(240,240,240,0.65) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-66 { background-color: rgba(240,240,240,0.66) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-67 { background-color: rgba(240,240,240,0.67) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-68 { background-color: rgba(240,240,240,0.68) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-69 { background-color: rgba(240,240,240,0.69) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-70 { background-color: rgba(240,240,240,0.70) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-71 { background-color: rgba(240,240,240,0.71) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-72 { background-color: rgba(240,240,240,0.72) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-73 { background-color: rgba(240,240,240,0.73) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-74 { background-color: rgba(240,240,240,0.74) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-75 { background-color: rgba(240,240,240,0.75) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-76 { background-color: rgba(240,240,240,0.76) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-77 { background-color: rgba(240,240,240,0.77) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-78 { background-color: rgba(240,240,240,0.78) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-79 { background-color: rgba(240,240,240,0.79) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-80 { background-color: rgba(240,240,240,0.80) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-81 { background-color: rgba(240,240,240,0.81) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-82 { background-color: rgba(240,240,240,0.82) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-83 { background-color: rgba(240,240,240,0.83) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-84 { background-color: rgba(240,240,240,0.84) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-85 { background-color: rgba(240,240,240,0.85) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-86 { background-color: rgba(240,240,240,0.86) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-87 { background-color: rgba(240,240,240,0.87) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-88 { background-color: rgba(240,240,240,0.88) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-89 { background-color: rgba(240,240,240,0.89) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-90 { background-color: rgba(240,240,240,0.90) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-91 { background-color: rgba(240,240,240,0.91) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-92 { background-color: rgba(240,240,240,0.92) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-93 { background-color: rgba(240,240,240,0.93) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-94 { background-color: rgba(240,240,240,0.94) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-95 { background-color: rgba(240,240,240,0.95) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-96 { background-color: rgba(240,240,240,0.96) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-97 { background-color: rgba(240,240,240,0.97) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-98 { background-color: rgba(240,240,240,0.98) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-99 { background-color: rgba(240,240,240,0.99) !important; background-image: none !important; }
+#panel.dynamic-panel-light.dynamic-panel-transparency-100 { background-color: rgba(240,240,240,1.00) !important; background-image: none !important; }
+
+
