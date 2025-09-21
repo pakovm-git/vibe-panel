@@ -24,4 +24,5 @@ Vibe Panel is a fork of:
 ---
 ### Donate
 Send some Bitcoin over Lightning to: pakovm@getalby.com
-<img width="898" height="897" alt="lnqr" src="https://github.com/user-attachments/assets/ffc3fee6-cfe2-493f-addb-25d6533a5921" />
+<img width="449" height="449" alt="lnqrsmall" src="https://github.com/user-attachments/assets/50a49464-b88f-4c17-9f2a-48d8ba2e9f72" />
+
